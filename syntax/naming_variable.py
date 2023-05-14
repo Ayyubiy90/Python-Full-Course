@@ -26,3 +26,9 @@ x = y = z = "I love python"
 print(x)
 print(y)
 print(z)
+
+# Rules for Naming a Variable
+# 1. A variable name must start with a letter or the underscore character
+# 2. A variable name cannot start with a number
+# 3. A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
+# 4. Variable names are case-sensitive (age, Age, and AGE are three different variables)
